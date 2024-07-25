@@ -129,8 +129,29 @@
 | 1 | Azor's Elecutors | :heavy_check_mark: | | yes |
 | 1 | Azor's Elecutors | :heavy_check_mark: | | yes |
 
+### Maybeboards 
 
-
+| Quantity | Card Name | FlagOfChaos Deck | Slarg's Deck | Need? |
+| -------- | ----------| ---------------- | ------------ | ----- |
+| 1 | Gate Colossus | :heavy_check_mark: | | yes |
+| 1 | Gate Colossus | :heavy_check_mark: | | yes |
+| 1 | Gatebreaker Ram | :heavy_check_mark: | | yes |
+| 1 | Gatebreaker Ram | :heavy_check_mark: | | yes |
+| 1 | Gatebreaker Ram | :heavy_check_mark: | | yes |
+| 1 | Gatebreaker Ram | :heavy_check_mark: | | yes |
+| 1 | Seedborn Muse | :heavy_check_mark: | | yes |
+| 1 | Seedborn Muse | :heavy_check_mark: | | yes |
+| 1 | Demystify | :heavy_check_mark: | | yes |
+| 1 | Demystify | :heavy_check_mark: | | yes |
+| 1 | Haze of Pollen | :heavy_check_mark: | | yes |
+| 1 | Haze of Pollen | :heavy_check_mark: | | yes |
+| 1 | Open the Gates | :heavy_check_mark: | | yes |
+| 1 | Open the Gates | :heavy_check_mark: | | yes |
+| 1 | Open the Gates | :heavy_check_mark: | | yes |
+| 1 | Door to Nothingness | :heavy_check_mark: | | yes |
+| 1 | Door to Nothingness | :heavy_check_mark: | | yes |
+| 1 | Ensnaring Bridge | :heavy_check_mark: | | yes |
+| 1 | Ensnaring Bridge | :heavy_check_mark: | | yes |
 
 
 
