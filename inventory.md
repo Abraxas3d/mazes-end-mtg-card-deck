@@ -22,6 +22,7 @@
 | 1 | Gatecreeper Vine | :heavy_check_mark: | | yes |
 | 1 | Gatecreeper Vine | :heavy_check_mark: | | yes |
 | 1 | Oracle of Mul Daya | :heavy_check_mark: | | yes |
+| 1 | Azusa, Lost but Seeking | | | no |
 
 ### Artifacts
 
@@ -29,12 +30,12 @@
 | -------- | ----------| ---------------- | ------------ | ----- |
 | 1 | Amulet of Vigor | :heavy_check_mark: | :heavy_check_mark: | no |
 | 1 | Amulet of Vigor | :heavy_check_mark: | :heavy_check_mark: | no |
-| 1 | Amulet of Vigor | :heavy_check_mark: |  | yes |
+| 1 | Amulet of Vigor (Chinese) | :heavy_check_mark: |  | no |
 | 1 | Expedition Map | :heavy_check_mark: | :heavy_check_mark: | no |
 | 1 | Expedition Map | :heavy_check_mark: | :heavy_check_mark: | no |
-| 1 | Isochron Scepter | :heavy_check_mark: |  | yes |
-| 1 | Isochron Scepter | :heavy_check_mark: |  | yes |
-| 1 | Isochron Scepter | :heavy_check_mark: |  | yes |
+| 1 | Isochron Scepter | :heavy_check_mark: |  | no |
+| 1 | Isochron Scepter | :heavy_check_mark: |  | no |
+| 1 | Isochron Scepter | :heavy_check_mark: |  | no |
 | 1 | Isochron Scepter | :heavy_check_mark: |  | yes |
 | 1 | Crucible of Worlds |  | :heavy_check_mark: | no |
 | 1 | Crucible of Worlds |  | :heavy_check_mark: | yes |
@@ -55,6 +56,8 @@
 | 1 | Ancient Stirrings | :heavy_check_mark: |  | yes |
 | 1 | Ancient Stirrings | :heavy_check_mark: |  | yes |
 | 1 | Ancient Stirrings | :heavy_check_mark: |  | yes |
+| 1 | Open the Way | | | no |
+| 1 | Ascend from Avernus | | | no |
 
 ### Lands
 
@@ -82,8 +85,8 @@
 | 1 | Dawn's Charm | :heavy_check_mark: |  | yes |
 | 1 | Dawn's Charm | :heavy_check_mark: |  | yes |
 | 1 | Dawn's Charm | :heavy_check_mark: |  | yes |
-| 1 | Growth Spiral | :heavy_check_mark: |  | yes |
-| 1 | Growth Spiral | :heavy_check_mark: |  | yes |
+| 1 | Growth Spiral | :heavy_check_mark: |  | no |
+| 1 | Growth Spiral | :heavy_check_mark: |  | no |
 | 1 | Growth Spiral | :heavy_check_mark: |  | yes |
 | 1 | Rune Snag |  | :heavy_check_mark: | no |
 | 1 | Rune Snag |  | :heavy_check_mark: | no |
@@ -100,8 +103,8 @@
 | 1 | Remand | | :heavy_check_mark: | yes |
 | 1 | Fog | :heavy_check_mark: | :heavy_check_mark: | no |
 | 1 | Fog | :heavy_check_mark: | :heavy_check_mark: | no |
-| 1 | Fog | :heavy_check_mark: | :heavy_check_mark: | yes |
-| 1 | Fog |  | :heavy_check_mark: | yes |
+| 1 | Fog | :heavy_check_mark: | :heavy_check_mark: | no |
+| 1 | Fog |  | :heavy_check_mark: | no |
 
 ### Sideboards 
 
@@ -109,11 +112,13 @@
 | -------- | ----------| ---------------- | ------------ | ----- |
 | 1 | Holy Day |  | :heavy_check_mark: | yes |
 | 1 | Holy Day |  | :heavy_check_mark: | yes |
+| 1 | Path to Exile |  | :heavy_check_mark: | no |
 | 1 | Path to Exile |  | :heavy_check_mark: | yes |
 | 1 | Path to Exile |  | :heavy_check_mark: | yes |
-| 1 | Path to Exile |  | :heavy_check_mark: | yes |
-| 1 | Lightning Bolt |  | :heavy_check_mark: | yes |
-| 1 | Lightning Bolt |  | :heavy_check_mark: | yes |
+| 1 | Lightning Bolt |  | :heavy_check_mark: | no |
+| 1 | Lightning Bolt |  | :heavy_check_mark: | no |
+| 1 | Lightning Bolt |  | :heavy_check_mark: | no |
+| 1 | Lightning Strike |  |  | no 
 | 1 | Seal of Primordium |  | :heavy_check_mark: | yes |
 | 1 | Seal of Primordium |  | :heavy_check_mark: | yes |
 | 1 | Crucible of Worlds |  | :heavy_check_mark: | yes |
@@ -121,7 +126,7 @@
 | 1 | Rakdos Guildgate | :heavy_check_mark: | | yes |
 | 1 | Nissa, Steward of Elements | :heavy_check_mark: | | yes |
 | 1 | Nissa, Steward of Elements | :heavy_check_mark: | | yes |
-| 1 | Life from the Loam | :heavy_check_mark: | | yes |
+| 1 | Life from the Loam | :heavy_check_mark: | | no |
 | 1 | Life from the Loam | :heavy_check_mark: | | yes |
 | 1 | Broken Bond | :heavy_check_mark: | | yes |
 | 1 | Broken Bond | :heavy_check_mark: | | yes |
@@ -150,7 +155,7 @@
 | 1 | Open the Gates | :heavy_check_mark: | | yes |
 | 1 | Door to Nothingness | :heavy_check_mark: | | yes |
 | 1 | Door to Nothingness | :heavy_check_mark: | | yes |
-| 1 | Ensnaring Bridge | :heavy_check_mark: | | yes |
+| 1 | Ensnaring Bridge | :heavy_check_mark: | | no |
 | 1 | Ensnaring Bridge | :heavy_check_mark: | | yes |
 
 
