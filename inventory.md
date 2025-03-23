@@ -3,9 +3,9 @@
 | Quantity | Card Name | FlagOfChaos Deck | Slarg's Deck | Need? |
 | -------- | ----------| ---------------- | ------------ | ----- |
 | 1 | Crackling Perimeter | :heavy_check_mark: | | yes |
-| 1 | Crackling Perimeter | :heavy_check_mark: | | yes |
-| 1 | Guild Summit | :heavy_check_mark: | | yes |
-| 1 | Guild Summit | :heavy_check_mark: | | yes |
+| 1 | Crackling Perimeter | :heavy_check_mark: | | no |
+| 1 | Guild Summit | :heavy_check_mark: | | no |
+| 1 | Guild Summit | :heavy_check_mark: | | no |
 
 ### Creatures
 
@@ -63,6 +63,7 @@
 
 | Quantity | Card Name | FlagOfChaos Deck | Slarg's Deck | Need? |
 | -------- | ----------| ---------------- | ------------ | ----- |
+| 1 | Hedge Maze |   |   |no|
 | 1 | Forest Land | :heavy_check_mark: |  | no 
 | 1 | Forest Land | :heavy_check_mark: | :heavy_check_mark: | no
 | 1 | Island Land |  | :heavy_check_mark: | no |
